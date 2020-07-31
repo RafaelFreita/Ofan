@@ -1,3 +1,3 @@
 # Ofan
 
-Boilerplate for Vulkan Project.
+Studies in Vulkan/C++
